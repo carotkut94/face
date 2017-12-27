@@ -33,4 +33,5 @@ dependencies {
     compile 'com.github.yongjhih:mismeter:1.0.0'
     testCompile 'junit:junit:4.12'
     compile 'de.hdodenhof:circleimageview:2.1.0'
+    compile group: 'cz.msebera.android' , name: 'httpclient', version: '4.4.1.1'
 }
